@@ -1,4 +1,4 @@
-# Computer-Science-for-JavaScript-Regex-Tutorial
+# Regex-Tutorials
 A brief, but detailed introduction to Regex
 ## Summary
 Here's a JavaScript expression (regex) pattern that matches the email "javierburgara150@yahoo.com":/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
